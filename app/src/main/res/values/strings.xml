@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Amalia Intan Safura_1202150248_StudyCase4</string>
+    <string name="list_nama_mahasiswa">List Nama Mahasiswa</string>
+    <string name="cari_gambar">Cari Gambar</string>
+    <string name="welcome_to_asynctaks">Welcome To Asynctaks</string>
+    <string name="masukkan_url_gambar">Masukkan URL Gambar</string>
+    <string name="cari_gambar__">Cari Gambar</string>
+    <string name="klik_untuk_mencari_gambar">Klik Untuk mENCARI GAMBAR</string>
+</resources>
